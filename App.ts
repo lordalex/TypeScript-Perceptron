@@ -12,7 +12,7 @@ let numts:NumTS = new NumTS
 let learningRate:number = 10 
 
 // Steps can be 100000
-let epoch:number = 10000; 
+let epoch:number = 10; 
 
 // This is the input to train the model
 let trainingData:number[][] = ([[0,0,1,0],
